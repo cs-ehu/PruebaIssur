@@ -7,7 +7,7 @@ package ehu.eda.ref;
  * en la constructora.
  * 
  * Todas las operaciones tienen tiempo de ejecucion en Theta(1) (tiempo
- * constante: independiente de la entrada y del tamaño de la pila).
+ * constante: indepeaaaaaaaaaaaaaaaaaandiente de la entrada y del tamaño de la pila).
  *
  */
 public class StackOfStringsSimple {
